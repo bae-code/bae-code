@@ -18,7 +18,7 @@
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" title="Django - ⭐️" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" title="Python - ⭐️" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" />
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="90" title="FastAPI - ⭐️" />
 </p>
 
 #### 🗃️ Databases
@@ -30,6 +30,17 @@
   
 </p>
 
+#### 🧠 AI
+<p>
+  <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4"
+       alt="openai"
+       width="40"
+       title="OpenAI - 🧠" />
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4"
+     alt="LangChain"
+     width="40"
+     title="LangChain - 🧠" />
+</p>
 
 #### ☁️ Cloud & DevOps
 <p>
